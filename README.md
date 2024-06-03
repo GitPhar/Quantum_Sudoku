@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Quantum+Sudoku+Logo" alt="Quantum Sudoku Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
+  <img src="https://github.com/GitPhar/Quantum_Sudoku/blob/main/9d9ef8f0463d78c0567834e85b1acd78.webp" alt="Quantum Sudoku Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
   <br>
   <br>
   <h1>Quantum_Sudoku</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/your-username/Quantum_Sudoku/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/your-username/Quantum_Sudoku">
+  <a href="https://github.com/GitPhar/Quantum_Sudoku/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/GitPhar/Quantum_Sudoku">
   </a>
-  <a href="https://github.com/your-username/Quantum_Sudoku/releases">
-    <img alt="GitHub release" src="https://img.shields.io/github/release/your-username/Quantum_Sudoku.svg">
+  <a href="https://github.com/GitPhar/Quantum_Sudoku/releases">
+    <img alt="GitHub release" src="https://img.shields.io/github/release/GitPhar/Quantum_Sudoku.svg">
   </a>
   <a href="https://arxiv.org/pdf/2402.00838.pdf">
     <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2402.00838-blue">
@@ -78,7 +78,7 @@ To run this project, you need the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Quantum_Sudoku.git
+   git clone https://github.com/GitPhar/Quantum_Sudoku.git
    ```
 2. Navigate to the project directory:
    ```bash
