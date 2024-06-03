@@ -1,4 +1,20 @@
-# Quantum_Sudoku
+<div align="center">
+  <img src="https://via.placeholder.com/800x300.png?text=Quantum+Sudoku+Logo" alt="Quantum Sudoku Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
+  <br>
+  <br>
+  <h1>Quantum_Sudoku</h1>
+</div>
+<p align="center">
+  <a href="https://github.com/your-username/Quantum_Sudoku/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/your-username/Quantum_Sudoku">
+  </a>
+  <a href="https://github.com/your-username/Quantum_Sudoku/releases">
+    <img alt="GitHub release" src="https://img.shields.io/github/release/your-username/Quantum_Sudoku.svg">
+  </a>
+  <a href="https://arxiv.org/pdf/2402.00838.pdf">
+    <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2402.00838-blue">
+  </a>
+</p>
 
 Quantum_Sudoku is an innovative project aimed at leveraging quantum annealing techniques to solve Sudoku puzzles quickly and efficiently. Utilizing the D-Wave Quantum Annealer, this project explores the potential of quantum computing in solving complex combinatorial problems.
 
