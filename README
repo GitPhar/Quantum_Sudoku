@@ -1,4 +1,3 @@
-```markdown
 # Quantum_Sudoku
 
 Quantum_Sudoku is an innovative project aimed at leveraging quantum annealing techniques to solve Sudoku puzzles quickly and efficiently. Utilizing the D-Wave Quantum Annealer, this project explores the potential of quantum computing in solving complex combinatorial problems.
@@ -63,7 +62,7 @@ To run this project, you need the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Quantum_Sudoku.git
+   git clone https://github.com/GitPhar/Quantum_Sudoku.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -129,4 +128,3 @@ We would like to thank D-Wave Systems for providing the quantum annealing techno
 ---
 
 Feel free to reach out if you have any questions or need further assistance. Happy solving!
-```
